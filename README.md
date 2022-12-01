@@ -2,7 +2,7 @@
 - 👀 I’m interested in webapps
 - 🌱 I’m currently learning basics of web development
 - 📫 How to reach me: DM <a href="https://twitter.com/w3_coding"> twitter</a>
-- 📒 <a href="https://pdostonh.github.io/cv"> My portfolio </a>
+- 📒 <a href="https://pdostonh.github.io/cv" target="_blank"> My portfolio </a>
 
 <!---
 pdostonh/pdostonh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
